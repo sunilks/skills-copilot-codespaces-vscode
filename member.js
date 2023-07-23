@@ -36,4 +36,5 @@ function skillsMember() {
     self.skills.push(new skillItem("F#", 33));
     self.skills.push(new skillItem("Haxe", 34));
     self.skills.push(new skillItem("Julia", 35));
-    self.skills.push(new skillItem("Kotlin",
+    self.skills.push(new skillItem("Kotlin",36));
+}
